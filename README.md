@@ -12,24 +12,42 @@
 - ⚡ Fun fact: I believe every expert was once a beginner!
 
 💻 Tech Stack
+💻 My Tech Stack & Tools
 
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🎨 Frontend Development
 
-📊 GitHub Statistics
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,angular,vue&theme=dark" />
+</p>⚙️ Backend Development
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,java,spring,php,fastapi&theme=dark" />
+</p>🗄️ Database & Storage
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,sqlite,supabase&theme=dark" />
+</p>🤖 AI & Machine Learning
 
-🔥 GitHub Streak
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=dark" />
+</p>☁️ Cloud & DevOps
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,nginx,githubactions&theme=dark" />
+</p>🛠️ Tools & IDEs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,eclipse,postman,figma&theme=dark" />
+</p>📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,kotlin,swift&theme=dark" />
+</p>---
+
+<p align="center">
+  <b>🚀 LEARN • BUILD • INNOVATE • REPEAT</b>
+</p>
+
 
 🌐 Connect With Me
 
