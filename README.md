@@ -51,7 +51,11 @@
 
 🌐 Connect With Me
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)" (https://github.com/harinath-93)
+<p align="center">
+  <a href="https://github.com/harinath-93">
+    <img src="https://img.shields.io/badge/GitHub-Harinath--93-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+</p>
 
 💡 Developer Quote
 
